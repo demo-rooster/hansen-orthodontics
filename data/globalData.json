@@ -1,80 +1,65 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Hansen Orthodontics & Aesthetics",
+  "domain": "hansen-orthodontics.com",
+  "email": "info@hansen-orthodontics.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "915-201-0881",
+    "href": "tel:+19152010881",
+    "aria": "9 1 5, 2 0 1, 0 8 8 1"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Westside",
       "address": {
-        "street": "9650 Main Street",
+        "street": "7340 Cimarron Market Ave Building B",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "El Paso, TX 79912",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(915) 201-0881",
+        "href": "tel:+19152010881"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@hansen-orthodontics.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t64:30 pm"
+          "day": "Mon",
+          "time": "8:00 AM - 5:00 PM"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t64:30 pm"
+          "day": "Tues",
+          "time": "8:00 AM - 5:00 PM"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Wed",
+          "time": "8:00 AM - 5:00 PM"
         },
         {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "day": "Thurs",
+          "time": "8:00 AM - 5:00 PM"
         },
         {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Fri",
+          "time": "8:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Sat",
+          "time": "Closed"
+        },
+        {
+          "day": "Sun",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=7340+Cimarron+Market+Ave+Building+B,+El+Paso,+TX+79912",
         "label": "Get Directions"
       },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@mandtortho.com",
-      "hours": [],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
-        "label": "Get Directions"
-      },
-      "special_note": ""
+      "special_note": "Family-centered orthodontics serving El Paso with advanced digital imaging and personalized treatment plans."
     }
   ],
   "typography": [
@@ -95,16 +80,16 @@
     "links": [
       {
         "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "text": "7340 Cimarron Market Ave Building B, El Paso, TX 79912",
+        "href": "https://www.google.com/maps/search/?api=1&query=7340+Cimarron+Market+Ave+Building+B,+El+Paso,+TX+79912",
+        "label": "View 7340 Cimarron Market Ave Building B, El Paso, TX 79912 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(915) 201-0881",
+        "href": "tel:+19152010881",
+        "label": "Call 9 1 5. 2 0 1. 0 8 8 1.",
         "new_window": false
       }
     ],
@@ -138,7 +123,7 @@
         }
       }
     ],
-    "floating": false
+    "floating": true
   },
   "primary_cta": {
     "label": "Schedule Consultation",
@@ -148,12 +133,7 @@
     "href": ""
   },
   "footer": {
-    "social_media": [
-      {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
-      }
-    ],
+    "social_media": [],
     "add_border": false
   },
   "enable_popup": false,

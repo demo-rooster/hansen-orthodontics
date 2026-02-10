@@ -4,68 +4,68 @@
       {
         "label": "primary",
         "color": {
-          "red": 126,
-          "green": 164,
-          "blue": 194,
+          "red": 115,
+          "green": 78,
+          "blue": 49,
           "alpha": 1
         },
-        "hex": "#7ea4c2",
+        "hex": "#734E31",
         "accessibility": {
-          "luminance": 0.35,
-          "luminancePercent": "35%",
-          "recommendedTextColor": "#000000",
-          "contrastRatio": 7.98,
+          "luminance": 0.09,
+          "luminancePercent": "9%",
+          "recommendedTextColor": "#ffffff",
+          "contrastRatio": 7.33,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 97,
-          "green": 134,
-          "blue": 163,
+          "red": 86,
+          "green": 58,
+          "blue": 36,
           "alpha": 1
         },
-        "hex": "#6186a3",
+        "hex": "#563a24",
         "accessibility": {
-          "luminance": 0.22,
-          "luminancePercent": "22%",
-          "recommendedTextColor": "#000000",
-          "contrastRatio": 5.45,
-          "wcagRating": "AA"
+          "luminance": 0.05,
+          "luminancePercent": "5%",
+          "recommendedTextColor": "#ffffff",
+          "contrastRatio": 10.36,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 163,
+          "green": 157,
+          "blue": 149,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#a39d95",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "luminance": 0.34,
+          "luminancePercent": "34%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.81,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 0,
+          "green": 0,
+          "blue": 0,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#000000",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0,
+          "luminancePercent": "0%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 21,
           "wcagRating": "AAA"
         }
       },
@@ -77,7 +77,7 @@
           "blue": 255,
           "alpha": 1
         },
-        "hex": "#FFFFFF",
+        "hex": "#ffffff",
         "accessibility": {
           "luminance": 1,
           "luminancePercent": "100%",
@@ -123,94 +123,49 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 97,
-          "green": 134,
-          "blue": 163,
+          "red": 115,
+          "green": 78,
+          "blue": 49,
           "alpha": 1
         },
-        "hex": "#6186a3",
+        "hex": "#734E31",
         "accessibility": {
-          "luminance": 0.22,
-          "luminancePercent": "22%",
-          "recommendedTextColor": "#000000",
-          "contrastRatio": 5.45,
-          "wcagRating": "AA"
+          "luminance": 0.09,
+          "luminancePercent": "9%",
+          "recommendedTextColor": "#ffffff",
+          "contrastRatio": 7.33,
+          "wcagRating": "AAA"
         }
       }
     ],
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'Inter', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Inter', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/HansenLogoWhite-01-1920w.webp",
     "logo_config": {
       "type": "url",
-      "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "variant": "dark",
+      "url": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/HansenLogoWhite-01-1920w.webp"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
-        },
-        {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
-        },
-        {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
-        },
-        {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
-        },
-        {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#ffffff",
+          "luminosity_percent": 100,
+          "count": 16
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
-      "is_light": false
+      "dominant_color": "#ffffff",
+      "avg_luminosity": 100,
+      "is_light": true
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/cropped-Hansen-Logo-Alt-Black-01-scaled-1-32x32.png"
   }
 }

@@ -4,20 +4,20 @@
   "domain": "hansen-orthodontics.com",
   "email": "info@hansen-orthodontics.com",
   "phone": {
-    "number": "915-201-0881",
+    "number": "(915) 201-0881",
     "href": "tel:+19152010881",
     "aria": "9 1 5, 2 0 1, 0 8 8 1"
   },
   "location": [
     {
-      "title": "Westside",
+      "title": "",
       "address": {
         "street": "7340 Cimarron Market Ave Building B",
         "suite": "",
         "city_state": "El Paso, TX 79912",
         "coordinates": {
-          "longitude": "",
-          "latitude": ""
+          "longitude": "-106.5725025",
+          "latitude": "31.8860801"
         }
       },
       "phone": {
@@ -27,39 +27,19 @@
       "email": "info@hansen-orthodontics.com",
       "hours": [
         {
-          "day": "Mon",
+          "day": "Mon - Fri",
           "time": "8:00 AM - 5:00 PM"
         },
         {
-          "day": "Tues",
-          "time": "8:00 AM - 5:00 PM"
-        },
-        {
-          "day": "Wed",
-          "time": "8:00 AM - 5:00 PM"
-        },
-        {
-          "day": "Thurs",
-          "time": "8:00 AM - 5:00 PM"
-        },
-        {
-          "day": "Fri",
-          "time": "8:00 AM - 5:00 PM"
-        },
-        {
-          "day": "Sat",
-          "time": "Closed"
-        },
-        {
-          "day": "Sun",
+          "day": "Sat - Sun",
           "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=7340+Cimarron+Market+Ave+Building+B,+El+Paso,+TX+79912",
+        "href": "https://www.google.com/maps/place/Hansen+Orthodontics+%26+Aesthetics/@31.886342,-106.572583,3691m/data=!3m1!1e3!4m6!3m5!1s0x86ddf9ca863879d3:0x6c2af4e102499265!8m2!3d31.8860801!4d-106.5725025!16s%2Fg%2F11y5ntqbvc!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDgxOC4wIKXMDSoASAFQAw%3D%3D",
         "label": "Get Directions"
       },
-      "special_note": "Family-centered orthodontics serving El Paso with advanced digital imaging and personalized treatment plans."
+      "special_note": ""
     }
   ],
   "typography": [
@@ -79,28 +59,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
+        "icon": "tooth-two-v2",
         "text": "7340 Cimarron Market Ave Building B, El Paso, TX 79912",
-        "href": "https://www.google.com/maps/search/?api=1&query=7340+Cimarron+Market+Ave+Building+B,+El+Paso,+TX+79912",
-        "label": "View 7340 Cimarron Market Ave Building B, El Paso, TX 79912 on google maps",
+        "href": "https://www.google.com/maps/place/Hansen+Orthodontics+%26+Aesthetics/@31.886342,-106.572583,3691m/data=!3m1!1e3!4m6!3m5!1s0x86ddf9ca863879d3:0x6c2af4e102499265!8m2!3d31.8860801!4d-106.5725025!16s%2Fg%2F11y5ntqbvc!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDgxOC4wIKXMDSoASAFQAw%3D%3D",
+        "label": "View 7340 Cimarron Market Ave Building B on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
         "text": "(915) 201-0881",
         "href": "tel:+19152010881",
-        "label": "Call 9 1 5. 2 0 1. 0 8 8 1.",
+        "label": "Call (915) 201-0881",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Schedule Your Free Consultation",
+      "text": "Schedule your free consultation with Hansen Orthodontics & Aesthetics — personalized care for children, teens, and adults.",
+      "mobile_text": "Book a Free Consult",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Schedule Your Free Consultation",
+        "text": "Book a free consultation to discuss clear aligners, braces, airway-focused care, or smile enhancements. Call (915) 201-0881 or request an appointment online."
       }
     }
   },
@@ -114,7 +94,7 @@
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
           "href": "",
-          "path": "/contact",
+          "path": "/contact-us",
           "hash": "#form",
           "external": false,
           "include_icon": true,
@@ -123,7 +103,7 @@
         }
       }
     ],
-    "floating": true
+    "floating": false
   },
   "primary_cta": {
     "label": "Schedule Consultation",
@@ -133,17 +113,26 @@
     "href": ""
   },
   "footer": {
-    "social_media": [],
+    "social_media": [
+      {
+        "href": "https://www.instagram.com/dr.nathanhansen/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/embed/VhBl3dHT5SY?feature=oembed?playlist=VhBl3dHT5SY&mute=0&autoplay=0&loop=no&controls=0&start=0&end=",
+        "icon": "youtube"
+      }
+    ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
-    "text": "",
+    "title": "Welcome to Hansen Orthodontics & Aesthetics",
+    "text": "Precision orthodontics and airway-focused care for children, teens, and adults. Schedule your free consultation today.",
     "image": {
-      "src": "",
+      "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/HansenLogoWhite-01-1920w.webp",
       "webp": "",
-      "alt": "",
+      "alt": "Hansen Orthodontics & Aesthetics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -151,7 +140,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "Contact Hero"
+      }
     }
   }
 }

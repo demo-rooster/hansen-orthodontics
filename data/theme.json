@@ -148,23 +148,23 @@
         "font": "'Inter', sans-serif"
       }
     ],
-    "logo_url": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/HansenLogoWhite-01-1920w.webp",
+    "logo_url": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/Hansen-Logo-Alt-Black-01-scaled.png",
     "logo_config": {
       "type": "url",
-      "variant": "dark",
-      "url": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/HansenLogoWhite-01-1920w.webp"
+      "variant": "light",
+      "url": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/Hansen-Logo-Alt-Black-01-scaled.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#ffffff",
-          "luminosity_percent": 100,
-          "count": 16
+          "hex": "#000000",
+          "luminosity_percent": 0,
+          "count": 70
         }
       ],
-      "dominant_color": "#ffffff",
-      "avg_luminosity": 100,
-      "is_light": true
+      "dominant_color": "#000000",
+      "avg_luminosity": 0,
+      "is_light": false
     },
     "favicon_url": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/cropped-Hansen-Logo-Alt-Black-01-scaled-1-32x32.png"
   }

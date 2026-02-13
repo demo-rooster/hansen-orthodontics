@@ -19,9 +19,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
-        "alt": "Hansen Orthodontics & Aesthetics office interior with team and smiling patients",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/106558480_Modern_dental_practice.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/106558480_Modern_dental_practice.webp",
+        "alt": "Bright, modern Hansen Orthodontics reception and treatment area with welcoming lighting",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -45,7 +45,7 @@
       "title": "Welcome to Hansen Orthodontics & Aesthetics",
       "paragraphs": [
         {
-          "text": "At Hansen Orthodontics & Aesthetics, we’re more than just a dental practice. We’re a team of passionate professionals committed to crafting confident smiles that change lives. As a family-centered practice, we design personalized treatment plans that align with your lifestyle and long-term oral health. From braces for teens to aesthetic solutions for adults, we tailor every detail to you and focus on comfort, trust, and precision through the entire treatment journey."
+          "text": "At Hansen Orthodontics & Aesthetics, we believe a confident smile has the power to transform how you see yourself and how the world sees you. We combine precision, artistry, and modern technology to deliver personalized orthodontic and aesthetic care for children, teens, and adults—tailoring every treatment to your lifestyle and long‑term oral health. Your journey to a healthier, more confident smile begins with a consultation and care centered on comfort, trust, and outstanding results."
         }
       ],
       "component_options": {
@@ -54,7 +54,7 @@
         "component_margins": "none",
         "hide_component": false
       },
-      "add_texture": true,
+      "add_texture": false,
       "linear_gradient": ""
     },
     {
@@ -62,11 +62,11 @@
       "title": "Why Choose Us",
       "items": [
         {
-          "title": "Personalized Care",
-          "icon": "file-chart-tooth",
+          "title": "VIP Experience",
+          "icon": "people",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/533427770_A_doctor_in_the_dental_clinic_explaining_and_looki.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/533427770_A_doctor_in_the_dental_clinic_explaining_and_looki.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -76,10 +76,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": null
+              "context_category": "All Ages"
             }
           },
-          "text": "Individualized treatment plans that follow you from the first consultation through retention, focused on your goals and lifestyle.",
+          "text": "Treatment plans customized to your dental anatomy, lifestyle, and goals for predictable, long‑lasting results.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -94,8 +94,8 @@
           "title": "Advanced Technology",
           "icon": "big-computer-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/33367648_dentist_office_interior.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/33367648_dentist_office_interior.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/389197724_Dentist_scanning_patients_teeth_with_modern_scanni.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/389197724_Dentist_scanning_patients_teeth_with_modern_scanni.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -105,10 +105,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": null
+              "context_category": "Experienced"
             }
           },
-          "text": "CBCT imaging, intraoral digital scanning, and 3D printing for more accurate, comfortable, and efficient diagnosis and appliance fabrication.",
+          "text": "CBCT imaging, intraoral digital scanning, and 3D printing for precise diagnosis and more comfortable treatment.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -120,11 +120,11 @@
           }
         },
         {
-          "title": "Family-Centered",
-          "icon": "people",
+          "title": "Airway Care",
+          "icon": "gear-process-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/145673624_Happy_family_with_kids.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/145673624_Happy_family_with_kids.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/396975239_Normal_anatomy_of_accessible_airways_Medically_acc.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/396975239_Normal_anatomy_of_accessible_airways_Medically_acc.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -134,10 +134,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": null
+              "context_category": "Gentle"
             }
           },
-          "text": "Warm, relationship-focused care for children, teens, and adults in a practice built around comfort and community.",
+          "text": "We treat alignment and airway concerns that affect sleep and overall health, integrating airway‑focused care when appropriate.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -149,11 +149,11 @@
           }
         },
         {
-          "title": "Five‑Star Outcomes",
-          "icon": "thumbs-up-tooth",
+          "title": "Comfortable Office",
+          "icon": "shiny-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/35296678_Young_female_patient_takes_a_dental_attendance.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/35296678_Young_female_patient_takes_a_dental_attendance.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/93670641_Cheerful_little_girl.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/93670641_Cheerful_little_girl.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -163,10 +163,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": null
+              "context_category": "Kid friendly"
             }
           },
-          "text": "High patient satisfaction shown in written testimonials and video stories that highlight real results and care.",
+          "text": "A modern, family‑centered practice with an emphasis on patient comfort and a five‑star patient experience.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -188,7 +188,7 @@
         "hash": "",
         "external": false,
         "include_icon": false,
-        "icon": "tooth-two-v1",
+        "icon": "pencil",
         "color": "black"
       },
       "component_options": {
@@ -206,18 +206,18 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Nathan Hansen",
+      "title": "Meet Dr. Nathan Hansen, DDS, MS",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Dr. Nathan Hansen, DDS, MDS (Orthodontist), blends science, art, and heart into each smile. Born in El Paso, he trained at Creighton University (DDS) and completed an orthodontic residency at Saint Louis University (MS in Dental Science). He has pursued advanced mentorships and master classes in smile aesthetics and airway-focused treatments to deliver precise, patient-centered care."
+          "text": "Dr. Nathan Hansen is passionate about blending science, art, and heart into every smile he creates. Born in El Paso and raised in the Kansas suburbs, he trained at Creighton and Saint Louis University and completed advanced mentorships in smile aesthetics and airway‑focused care. He brings a patient‑first approach and meticulous attention to detail to every treatment plan."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/WhatsApp-Image-2023-05-08-at-11.07.23-AM-5-1.jpeg",
-        "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/WhatsApp-Image-2023-05-08-at-11.07.23-AM-5-1.jpeg",
+        "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/dr_Hansen.jpg",
+        "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/dr_Hansen.jpg",
         "alt": "Dr. Nathan Hansen, orthodontist at Hansen Orthodontics & Aesthetics",
         "aria_hidden": false,
         "bgColor": "",
@@ -239,14 +239,14 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Nathan Hansen",
+            "label": "Meet Dr. Hansen",
             "aria_label": "Learn about Dr. Nathan Hansen",
             "href": "",
             "path": "/about",
             "hash": "#meet-the-doctor",
             "external": true,
             "include_icon": false,
-            "icon": "tooth-two-v2",
+            "icon": "pencil",
             "color": "black"
           }
         }
@@ -277,7 +277,7 @@
       "title": "Our Treatments",
       "paragraphs": [
         {
-          "text": "We provide modern orthodontic care for teens and adults, from clear aligners to airway-focused treatments and custom retention plans."
+          "text": "We offer modern options for every smile, from clear aligners to braces, retainers, and professional whitening to help you achieve and keep your best results."
         }
       ],
       "button": {
@@ -290,7 +290,7 @@
         "hash": "",
         "external": true,
         "include_icon": false,
-        "icon": "tooth-two-v1",
+        "icon": "pencil",
         "color": "black"
       },
       "links": true,
@@ -298,9 +298,9 @@
       "items": [
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
-            "alt": "Spark clear aligners on tray, Hansen Orthodontics",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513818_Clear_braces_-_invisible_brackets_for_teeth_straig.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513818_Clear_braces_-_invisible_brackets_for_teeth_straig.webp",
+            "alt": "Spark Clear Aligners held in a hand, clear aligner treatment",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -312,15 +312,15 @@
               "context_category": "Treatments Hero"
             }
           },
-          "title": "Clear Aligners",
+          "title": "Spark Clear Aligners",
           "path": "/treatments",
-          "hash": "#clear-aligners"
+          "hash": "#spark-clear-aligners"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.webp",
-            "alt": "Damon self-ligating braces in treatment, Hansen Orthodontics",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.webp",
+            "alt": "Damon Braces close-up on teeth",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -332,15 +332,15 @@
               "context_category": "Treatments Hero"
             }
           },
-          "title": "Damon / Braces",
+          "title": "Damon Braces",
           "path": "/treatments",
           "hash": "#damon-braces"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024688_Woman_Wearing_Clear_Aligner_In_Dental_Clinic.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024688_Woman_Wearing_Clear_Aligner_In_Dental_Clinic.webp",
-            "alt": "Custom orthodontic retainers, Hansen Orthodontics",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.webp",
+            "alt": "Custom retainers on a dental tray",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -349,7 +349,7 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "All Ages"
+              "context_category": "Retainers"
             }
           },
           "title": "Retainers",
@@ -358,9 +358,9 @@
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.webp",
-            "alt": "Airway orthodontics concept image",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
+            "alt": "Professional teeth whitening treatment",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -369,12 +369,12 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Treatments Hero"
+              "context_category": "Cleaning"
             }
           },
-          "title": "Airway Orthodontics",
+          "title": "Professional Teeth Whitening",
           "path": "/treatments",
-          "hash": "#airway-orthodontics"
+          "hash": "#professional-teeth-whitening"
         }
       ],
       "component_options": {
@@ -400,7 +400,7 @@
       "testimonials": [
         {
           "author": "Paulina Longenbaugh",
-          "testimonial": "“Dr. Hansen is an amazing doctor. I really appreciate the time that he takes to explain the procedure to me. He’s patient and helps me to feel comfortable asking questions. ... his office is one of the most beautiful buildings I’ve been in.”"
+          "testimonial": "“Dr. Hansen is an amazing doctor. I really appreciate the time that he takes to explain the procedure to me. He’s patient and helps me to feel comfortable asking questions. ... His office is one of the most beautiful buildings I’ve been in.”"
         },
         {
           "author": "David Peterson",
@@ -408,7 +408,11 @@
         },
         {
           "author": "Hannah Minall",
-          "testimonial": "“Dr. Hansen was absolutely fantastic! While traveling from out of town, we had an unexpected orthodontic emergency with my teen, and he went above and beyond to help us. ... I highly recommend Dr. Hansen for exceptional care!”"
+          "testimonial": "“Dr. Hansen was absolutely fantastic! While traveling from out of town, we had an unexpected orthodontic emergency with my teen, and he went above and beyond to help us. His kindness and professionalism were truly reassuring ...”"
+        },
+        {
+          "author": "Veronica Macias Santos",
+          "testimonial": "“Great Experience! I’m getting braces in Mexico, but a bracket broke while I was in El Paso. Hansen Orthodontics got me in the next day and fixed it quickly. Super helpful, professional, and kind—highly recommend!”"
         }
       ],
       "component_options": {
@@ -423,13 +427,13 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Follow Us",
+      "title": "Follow Us on Social Media",
       "content_block": "social_block",
       "text": "",
       "social_links": [
         {
           "href": "https://www.google.com/search?q=hansen+orthodontics+el+paso",
-          "icon": "phone"
+          "icon": "facebook"
         }
       ],
       "email": "",
@@ -457,8 +461,8 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/580149524_Multicultural_young_people_having_fun_walking_on_c.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/580149524_Multicultural_young_people_having_fun_walking_on_c.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/57845363_Parents_with_kids_relaxing_in_front_of_home.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/57845363_Parents_with_kids_relaxing_in_front_of_home.webp",
         "alt": "Parents with kids relaxing in front of home",
         "aria_hidden": false,
         "bgColor": "",
@@ -482,7 +486,7 @@
       "content_block": "text_block",
       "text": "",
       "social_links": [],
-      "email": "",
+      "email": "info@hansen-orthodontics.com",
       "button": {
         "type": "nuxt",
         "style": "primary",
@@ -509,7 +513,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/600329009_Man_making_an_appointment_with_medical_staffs_at_r.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/600329009_Man_making_an_appointment_with_medical_staffs_at_r.webp",
-        "alt": "Enjoying time together",
+        "alt": "Family enjoying time together outdoors",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -529,14 +533,14 @@
     {
       "seo": {
         "page_title": "Home - Hansen Orthodontics & Aesthetics",
-        "page_description": "Hansen Orthodontics & Aesthetics in El Paso offers personalized orthodontic care: clear aligners, Damon braces, airway-focused treatments, and custom retainers.",
-        "page_keywords": "orthodontics, clear aligners, Damon braces, retainers, airway orthodontics, El Paso",
+        "page_description": "Hansen Orthodontics & Aesthetics in El Paso offers modern orthodontics, clear aligners, Damon braces, retainers, and airway-focused care. Schedule a consult.",
+        "page_keywords": "orthodontics, clear aligners, Damon braces, retainers, teeth whitening, El Paso",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Hansen Orthodontics & Aesthetics — El Paso",
-            "description": "Personalized orthodontic care in El Paso: clear aligners, modern braces, airway-focused treatment, and custom retention plans.",
-            "image": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_8-scaled.webp"
+            "title": "Home - Hansen Orthodontics & Aesthetics",
+            "description": "Modern, patient-centered orthodontic care in El Paso: Spark clear aligners, Damon braces, retainers, and professional whitening.",
+            "image": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/BG1_6012-1920w.webp"
           }
         }
       }
@@ -562,9 +566,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/239725802_group_of_professional_doctors.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/239725802_group_of_professional_doctors.webp",
-        "alt": "Bright, welcoming Hansen Orthodontics reception area with smiling staff and modern decor",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.webp",
+        "alt": "Bright, modern orthodontic office reception and team area at Hansen Orthodontics & Aesthetics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -572,7 +576,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "About Hero"
+        }
       },
       "video": {
         "src": "",
@@ -586,16 +592,10 @@
       "title": "Our Mission",
       "paragraphs": [
         {
-          "text": "To deliver transformative orthodontic and aesthetic care through innovation, expertise, and an unwavering commitment to excellence. Your journey to a radiant, confident smile starts with us."
+          "text": "At Hansen Orthodontics & Aesthetics we’re more than a dental practice — we’re a team of passionate professionals committed to crafting confident smiles that change lives. As a family-centered practice, we build strong relationships with patients and the community and design personalized treatment plans that align with each patient's lifestyle, goals, and long-term dental health."
         },
         {
-          "text": "At Hansen Orthodontics & Aesthetics we design personalized treatment plans that align with each patient’s lifestyle, goals, and long‑term dental health, centering the experience on comfort, trust, and precision."
-        },
-        {
-          "text": "We use modern technology and gentle techniques to make treatment efficient and comfortable, offering options such as braces and clear aligners when appropriate."
-        },
-        {
-          "text": "Our team focuses on clear communication, flexible scheduling, and building relationships so every patient feels supported from their first visit through long‑term care."
+          "text": "Our Mission: To deliver transformative orthodontic and aesthetic care through innovation, expertise, and an unwavering commitment to excellence. Your journey to a radiant, confident smile starts with us."
         }
       ],
       "component_options": {
@@ -612,17 +612,215 @@
       "linear_gradient": ""
     },
     {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Nathan Hansen",
+      "paragraphs": [],
+      "image": {
+        "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/dr_Hansen.jpg",
+        "webp": "",
+        "alt": "Dr. Nathan Hansen headshot smiling at Hansen Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "About",
+          "paragraphs": [
+            {
+              "text": "Transforming Smiles. Inspiring Confidence. Dr. Nathan Hansen blends science, art, and heart into every smile he creates. Born in El Paso and raised in the Kansas suburbs, Dr. Hansen returned home to serve the community with world-class orthodontic care and a personal touch."
+            },
+            {
+              "text": "He builds treatment plans that respect each patient's lifestyle and long-term dental health, focusing on clear communication, comfort, and predictable results."
+            }
+          ],
+          "image": {
+            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/dr_Hansen.jpg",
+            "webp": "",
+            "alt": "Dr. Nathan Hansen in clinical setting",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Hansen earned his bachelor’s degree in Spanish from Brigham Young University, completed his DDS at Creighton University School of Dentistry where he graduated near the top of his class and received the Spirit of Creighton Award, and finished his orthodontic residency at Saint Louis University with a Master of Science in Dental Science."
+            }
+          ],
+          "image": {
+            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/dr_Hansen.jpg",
+            "webp": "",
+            "alt": "Dr. Hansen portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
+          }
+        },
+        {
+          "header": "Specialties",
+          "paragraphs": [
+            {
+              "text": "Dr. Hansen focuses on orthodontics for children, teens, and adults, offering both braces and clear aligner options. His clinical interests include airway-focused orthodontics, smile aesthetics, and facial-focused treatment planning to deliver healthy, balanced results."
+            }
+          ],
+          "image": {
+            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/dr_Hansen.jpg",
+            "webp": "",
+            "alt": "Dr. Hansen consulting with a patient",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-the-doctor",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Mentorships & Training",
+      "paragraphs": [],
+      "image": {
+        "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/WhatsApp-Image-2023-05-08-at-11.07.23-AM-5-1.jpeg",
+        "webp": "",
+        "alt": "Dr. Hansen at a professional event",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Advanced Training",
+          "paragraphs": [
+            {
+              "text": "Dr. Hansen completed a two-year Advanced Orthodontic Treatment & Smile Aesthetics Master Class and benefited from two years of mentorship under Dr. Stuart Frost and Dr. Trevor Nichols. These advanced studies sharpen his skills in facial aesthetics and contemporary orthodontic techniques."
+            }
+          ],
+          "image": {
+            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/WhatsApp-Image-2023-05-08-at-11.07.23-AM-5-1.jpeg",
+            "webp": "",
+            "alt": "Dr. Hansen with mentors and colleagues",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
+          }
+        },
+        {
+          "header": "Outside the Clinic",
+          "paragraphs": [
+            {
+              "text": "Outside clinical practice Dr. Hansen brings athleticism and creativity to life — a background in acrobatics, tricking, and team performance informs his energetic, patient-centered approach to care."
+            }
+          ],
+          "image": {
+            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/WhatsApp-Image-2023-05-08-at-11.07.23-AM-5-1.jpeg",
+            "webp": "",
+            "alt": "Dr. Hansen active and community-minded",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Community"
+            }
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "has_background": false,
+      "background": "bg2",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": false,
+      "preserve_image": true
+    },
+    {
       "acf_fc_layout": "block_grid",
       "title": "Meet the Team",
       "items": [
         {
           "name": "Amy Whitesides",
-          "position": "Brand & Practice Manager",
-          "bio": "Amy leads our brand, culture, and patient experience. Bilingual in Spanish and English, she holds a degree in Communications (Public Relations) from Utah Valley University and brings nearly a decade of dental and orthodontic experience. Amy oversees in‑house marketing, patient messaging, and office culture; she is a mother of two who enjoys reading, Latin dance, and country music.",
+          "position": "Administrative Lead",
+          "bio": "Amy leads patient coordination and ensures every visit runs smoothly. Learn more on her profile page.",
           "image": {
-            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/portrait-of-a-doctor-at-medical-clinic-53W9WJW.jpg",
-            "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/portrait-of-a-doctor-at-medical-clinic-53W9WJW.jpg",
-            "alt": "Portrait of a Hansen Orthodontics team member",
+            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/IMG_2109-scaled.jpg",
+            "webp": "",
+            "alt": "Amy Whitesides smiling in the office",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -630,17 +828,19 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
           }
         },
         {
-          "name": "Linda Foster",
-          "position": "Chief Executive Officer",
-          "bio": "Example team profile used for layout purposes. Replace with a staff bio and headshot when available.",
+          "name": "Clinical & Administrative Team",
+          "position": "Clinical & Admin Team",
+          "bio": "Our clinical and administrative staff work together to create a welcoming, professional experience for every patient.",
           "image": {
-            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/portrait-of-a-doctor-at-medical-clinic-53W9WJW.jpg",
-            "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/portrait-of-a-doctor-at-medical-clinic-53W9WJW.jpg",
-            "alt": "Team portrait",
+            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/WhatsApp-Image-2023-05-08-at-11.23.15-AM.jpeg",
+            "webp": "",
+            "alt": "Clinical and administrative team at Hansen Orthodontics",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -648,17 +848,19 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Kid friendly"
+            }
           }
         },
         {
-          "name": "Tina Houston",
-          "position": "Consultant",
-          "bio": "Example team profile used for layout purposes. Replace with a staff bio and headshot when available.",
+          "name": "Support Team",
+          "position": "Clinical Assistants",
+          "bio": "Our assistants and coordinators support every stage of treatment, from first consults to final retainers.",
           "image": {
-            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/portrait-of-a-doctor-at-medical-clinic-53W9WJW.jpg",
-            "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/portrait-of-a-doctor-at-medical-clinic-53W9WJW.jpg",
-            "alt": "Team portrait",
+            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/WhatsApp-Image-2023-05-08-at-11.07.23-AM-1.jpeg",
+            "webp": "",
+            "alt": "Support team members at Hansen Orthodontics",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -666,43 +868,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Amanda Dean",
-          "position": "Therapist",
-          "bio": "Example team profile used for layout purposes. Replace with a staff bio and headshot when available.",
-          "image": {
-            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/portrait-of-a-doctor-at-medical-clinic-53W9WJW.jpg",
-            "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/portrait-of-a-doctor-at-medical-clinic-53W9WJW.jpg",
-            "alt": "Team portrait",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Lucy Young",
-          "position": "Therapist",
-          "bio": "Example team profile used for layout purposes. Replace with a staff bio and headshot when available.",
-          "image": {
-            "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/portrait-of-a-doctor-at-medical-clinic-53W9WJW.jpg",
-            "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/portrait-of-a-doctor-at-medical-clinic-53W9WJW.jpg",
-            "alt": "Team portrait",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
           }
         }
       ],
@@ -726,21 +894,9 @@
       "carousel_aria": "Office Tour Carousel",
       "slides": [
         {
-          "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_2-scaled.webp",
-          "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_2-scaled.webp",
-          "alt": "Hansen Orthodontics waiting area with comfortable seating",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
           "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_17-scaled.webp",
-          "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_17-scaled.webp",
-          "alt": "Treatment room and clinical operatory at Hansen Orthodontics",
+          "webp": "",
+          "alt": "Office treatment area at Hansen Orthodontics",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -750,9 +906,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_8-scaled.webp",
-          "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_8-scaled.webp",
-          "alt": "Office interior used on our practice differences page",
+          "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_50-scaled.webp",
+          "webp": "",
+          "alt": "Patient waiting area at Hansen Orthodontics",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -762,9 +918,21 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_4-scaled.webp",
-          "webp": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_4-scaled.webp",
-          "alt": "Clinical operatory with modern orthodontic equipment",
+          "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_19-scaled.webp",
+          "webp": "",
+          "alt": "Clinical equipment and operatory at Hansen Orthodontics",
+          "aria_hidden": false,
+          "bgColor": "",
+          "imageBackground": false,
+          "addLoader": false,
+          "objectPosition": "",
+          "forceAlt": "",
+          "loading_mask": "#eef6f8"
+        },
+        {
+          "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_4-768x1024.webp",
+          "webp": "",
+          "alt": "Office interior showing comfortable patient spaces",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -793,14 +961,14 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "As a family-centered practice, we take pride in building strong relationships with our patients and the community we serve."
+          "text": "Hansen Orthodontics & Aesthetics takes pride in serving the El Paso community. We focus on family-centered care and build lasting relationships through outreach, support for local events, and by being available when patients need us most. Patients frequently note how our team goes the extra mile — “Dr. Hansen went above and beyond to help us,” recalls Hannah Minall."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.webp",
-        "alt": "Graphic representing community support by the practice",
+        "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/IMG_2109-scaled.jpg",
+        "webp": "",
+        "alt": "Hansen Orthodontics team participating in a community event",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -808,7 +976,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Community"
+        }
       },
       "video": {
         "type": "embedded",
@@ -833,6 +1003,170 @@
       "add_texture": false,
       "large_title": false,
       "title_color": "text",
+      "title_underline_color": "none",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "multi_use_banner",
+      "title": "Ready to get started?",
+      "content_block": "text_block",
+      "text": "",
+      "social_links": [],
+      "email": "info@hansen-orthodontics.com",
+      "button": {
+        "type": "nuxt",
+        "style": "primary",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
+        "include_icon": false,
+        "icon": "",
+        "color": ""
+      },
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "background_type": "has_background",
+      "background": "bg2",
+      "add_texture": false,
+      "linear_gradient": "",
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/652764051_Medical_staff_and_nurse_Receptionist_talking_to_co.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/652764051_Medical_staff_and_nurse_Receptionist_talking_to_co.webp",
+        "alt": "Family enjoying time together outdoors",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "center",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Contact Hero"
+        }
+      },
+      "reversed": false,
+      "centered": true,
+      "large_title": true,
+      "text_color": "primary"
+    },
+    {
+      "seo": {
+        "page_title": "About Us | Hansen Orthodontics & Aesthetics",
+        "page_description": "Learn about Hansen Orthodontics & Aesthetics — our mission, Dr. Nathan Hansen's training, and our family-centered team serving El Paso with modern orthodontic &",
+        "page_keywords": "Hansen Orthodontics, El Paso orthodontist, Dr. Nathan Hansen, braces, clear aligners, orthodontics, cosmetic dental",
+        "additional_settings": false,
+        "social_meta": {
+          "og_meta": {
+            "title": "About Us | Hansen Orthodontics & Aesthetics",
+            "description": "Family-centered orthodontics in El Paso. Meet Dr. Nathan Hansen and our team dedicated to modern, comfortable care.",
+            "image": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/dr_Hansen.jpg"
+          }
+        }
+      }
+    }
+  ],
+  "Get Started": [
+    {
+      "acf_fc_layout": "hero",
+      "title": "Get Started",
+      "text": "",
+      "button": {
+        "type": "nuxt",
+        "style": "primary",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
+        "include_icon": false,
+        "icon": "phone",
+        "color": "primary"
+      },
+      "media_type": "image",
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/384405861_Online_lifestyle_concept_Cheerful_good_looking_wom.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/384405861_Online_lifestyle_concept_Cheerful_good_looking_wom.webp",
+        "alt": "Hansen Orthodontics office reception and treatment area",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Contact Hero"
+        }
+      },
+      "video": {
+        "src": "",
+        "webm": "",
+        "title": ""
+      },
+      "small": false
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "New patient forms",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Use our online appointment form to request a consultation or schedule your exam. The form collects: Patient First Name*, Patient Last Name*, Patient Age (Toddler (1 - 2); Pre-Schooler (3 - 4); Child (5 - 9); Pre-Teen (10 - 12); Early-Teen (13 - 15); Late-Teen (16 - 19); Young Adult (20 - 30); Adult (31-64); Senior (65+)), Email*, Mobile Phone*, a “Please call me instead” option, How did you hear about us?*, and Question/Message*. You can also use the scheduling widget to pick a date and time and we will contact you to confirm."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Please do not submit any Protected Health Information (PHI). This is not a secure or encrypted means of communicating with our orthodontics office. By submitting you consent to receive text messages from Hansen Orthodontics & Aesthetics. Message frequency varies, message and data rates may apply. Reply STOP to opt-out; HELP for more information. View our Privacy Policy and Terms of Service: https://www.waveortho.com/privacy-policy.php and https://www.waveortho.com/terms-of-service.php. Form buttons: Submit / Reset. Confirmation: Submission Successful! Thank you for requesting an appointment! We will follow up shortly and we look forward to speaking with you!"
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
+        "alt": "Parent and child checking in at dental reception",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Initial Visit"
+        }
+      },
+      "video": {
+        "type": "file",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg2",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": true,
+      "title_color": "text",
       "title_underline_color": "none"
     },
     {
@@ -841,7 +1175,7 @@
       "content_block": "text_block",
       "text": "",
       "social_links": [],
-      "email": "",
+      "email": "info@hansen-orthodontics.com",
       "button": {
         "type": "nuxt",
         "style": "primary",
@@ -868,7 +1202,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.webp",
-        "alt": "Enjoying time together",
+        "alt": "Family enjoying time together outdoors",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -887,24 +1221,24 @@
     },
     {
       "seo": {
-        "page_title": "About Us | Hansen Orthodontics & Aesthetics",
-        "page_description": "Learn about Hansen Orthodontics & Aesthetics, our mission to provide personalized, modern orthodontic care and our commitment to patient comfort and community.",
-        "page_keywords": "Hansen Orthodontics, Orthodontics, Aesthetics, Braces, Clear Aligners, Hansen Orthodontics & Aesthetics",
+        "page_title": "Get Started | Hansen Orthodontics & Aesthetics",
+        "page_description": "Request your consultation with Hansen Orthodontics & Aesthetics. Schedule an exam, complete new patient forms, or contact us at (915) 201-0881.",
+        "page_keywords": "Hansen Orthodontics, orthodontics, new patient forms, contact, schedule, El Paso",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "About Us | Hansen Orthodontics & Aesthetics",
-            "description": "Personalized orthodontic and aesthetic care focused on comfort, modern technology, and community.",
-            "image": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_50-scaled.webp"
+            "title": "Get Started | Hansen Orthodontics & Aesthetics",
+            "description": "Request your consultation with Hansen Orthodontics & Aesthetics. Schedule an exam, complete new patient forms, or contact us at (915) 201-0881.",
+            "image": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_4-768x1024.webp"
           }
         }
       }
     }
   ],
-  "Get Started": [
+  "Treatments": [
     {
       "acf_fc_layout": "hero",
-      "title": "Get Started",
+      "title": "Treatments",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -921,9 +1255,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/439148846_Hispanic_teenager_girl_with_dental_braces_wearing.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/439148846_Hispanic_teenager_girl_with_dental_braces_wearing.webp",
-        "alt": "Bright, welcoming orthodontic office reception and team",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/35296678_Young_female_patient_takes_a_dental_attendance.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/35296678_Young_female_patient_takes_a_dental_attendance.webp",
+        "alt": "Modern orthodontic office interior with welcoming reception and treatment rooms",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -931,7 +1265,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Treatments Hero"
+        }
       },
       "video": {
         "src": "",
@@ -942,24 +1278,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "What to expect at your first visit",
+      "title": "Damon Braces",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Your first appointment is a comprehensive orthodontic evaluation where you will meet our team, tour the office, and receive a full exam using advanced digital technology. We use an intraoral scanner and high-resolution photos instead of traditional molds when appropriate, so we can create a clear, personalized treatment plan and show you example results for braces, clear aligners, and airway-focused care."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "During the consultation we will review X-rays and diagnostic scans, discuss recommended treatment options, estimated timeline, and costs, and answer any questions. Typical exam items include an oral and facial evaluation, digital imaging (intraoral scan, photos, and CBCT when indicated), a clear discussion of options and finances, and time with the treatment coordinator. Please bring photo ID, your insurance card if you have coverage, a list of medications and medical history, and any referral or prior imaging if available."
+          "text": "Damon braces use a self-ligating system that reduces friction and often shortens treatment time. Patients experience fewer adjustments, easier oral hygiene, and a more comfortable path to a straighter smile."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.webp",
-        "alt": "Modern orthodontic exam room with digital imaging equipment",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.webp",
+        "alt": "Close-up of Damon braces on a smiling patient",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -967,7 +1298,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Treatments Hero"
+        }
       },
       "video": {
         "type": "embedded",
@@ -975,7 +1308,7 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "",
+        "hash": "damon-braces",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -990,49 +1323,25 @@
       "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
-      "large_title": true,
+      "large_title": false,
       "title_color": "text",
       "title_underline_color": "none"
     },
     {
-      "acf_fc_layout": "block_text_simple",
-      "title": "Payment & Insurance",
-      "paragraphs": [
-        {
-          "text": "We offer flexible monthly payment plans with low or no interest and extended terms to reduce monthly costs. Third-party financing is available through trusted medical lenders to help make treatment more affordable."
-        },
-        {
-          "text": "We verify benefits with all insurance providers and will file claims to maximize coverage and reduce out-of-pocket cost. Complimentary consultations are available; book your free consultation on the Contact page."
-        }
-      ],
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "large_title": false,
-      "center_title": false,
-      "one_column": false,
-      "add_texture": false,
-      "background": "bg2",
-      "linear_gradient": ""
-    },
-    {
       "acf_fc_layout": "image_text",
-      "title": "New patient forms",
+      "title": "Spark Clear Aligners",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Most new patient paperwork and intake is handled online. Use our secure patient portal to complete forms and manage your account, or request an appointment through our contact form if you prefer to schedule directly. We did not find downloadable PDF intake packets on the site; please use the portal or contact page for new patient intake."
+          "text": "Spark clear aligners provide a discreet, comfortable way to correct crowding and spacing. Made from high-clarity material, they resist stains and are custom designed using digital scans for precise tooth movement."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/232435916_Electronic_medical_record_with_patient_data_and_he.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/232435916_Electronic_medical_record_with_patient_data_and_he.webp",
-        "alt": "Patient completing new patient forms on a tablet in a bright office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/412396002_Invisalign.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/412396002_Invisalign.webp",
+        "alt": "Spark clear aligners on a tray ready for placement",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1040,52 +1349,443 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Treatments Hero"
+        }
       },
       "video": {
         "type": "embedded",
         "src": ""
       },
-      "buttons": [
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Patient Portal",
-            "aria_label": "patient portal",
-            "href": "https://patients.waveortho.com/?cid=E3E9859CE4",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "envelope",
-            "color": "black"
-          }
-        },
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Request Appointment",
-            "aria_label": "request appointment",
-            "href": "https://hansen-orthodontics.com/contact-us/",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "pencil",
-            "color": "black"
-          }
-        }
-      ],
+      "buttons": [],
       "component_options": {
-        "hash": "",
+        "hash": "spark-clear-aligners",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": true,
-      "has_buttons": true,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Phase 1 Treatment",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Phase 1, or early interceptive care, is designed for children ages six to ten to guide jaw growth, create room for permanent teeth, and prevent more complex problems later. Early appliances like expanders and space maintainers set the foundation for a healthier smile."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
+        "alt": "Orthodontic office photo showing treatment rooms and children's area",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Initial Visit"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "phase-1-orthodontic-treatment",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Airway Orthodontics",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Airway-focused treatment expands the palate and guides jaw development to improve breathing, reduce snoring, and support healthier sleep. We evaluate airway concerns alongside orthodontic goals to create a plan that improves both function and facial balance."
+        }
+      ],
+      "accordion": [
+        {
+          "header": "Benefits",
+          "paragraphs": [
+            {
+              "text": "Improved sleep quality, reduced snoring, better daytime focus, and support for healthy facial growth in children."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/396975264_Normal_anatomy_of_accessible_airways_Medically_acc.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/396975264_Normal_anatomy_of_accessible_airways_Medically_acc.webp",
+            "alt": "Panoramic x-ray showing jaw and airway anatomy",
+            "image_selection_hints": {
+              "context_category": "General"
+            }
+          }
+        },
+        {
+          "header": "Who it helps",
+          "paragraphs": [
+            {
+              "text": "Patients with chronic mouth breathing, snoring, narrow arches, or sleep-disordered breathing may benefit from airway-centered orthodontics."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/130517012_Man_sleeping_in_bed_wearing_CPAP_mask_sleep_apnea.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/130517012_Man_sleeping_in_bed_wearing_CPAP_mask_sleep_apnea.webp",
+            "alt": "Orthodontist reviewing airway imaging with a patient",
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
+          }
+        },
+        {
+          "header": "Next steps",
+          "paragraphs": [
+            {
+              "text": "We begin with a detailed consultation, photos, and scans to assess airway and jaw structure, then recommend targeted appliances or expanders when indicated."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/404575189_Maxillomandibular_Advancement_surgery_Medically_ac.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/404575189_Maxillomandibular_Advancement_surgery_Medically_ac.webp",
+            "alt": "Orthodontic consultation using 3D imaging",
+            "image_selection_hints": {
+              "context_category": "Initial Visit"
+            }
+          }
+        },
+        {
+          "header": "FAQs",
+          "paragraphs": [
+            {
+              "text": "Treatments are usually gentle and similar in discomfort to traditional orthodontics. Many airway improvements are non-surgical and focus on growth guidance or oral appliances."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/273497611_Sleep_apnea_CPAP_mask_on_the_grey_table.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/273497611_Sleep_apnea_CPAP_mask_on_the_grey_table.webp",
+            "alt": "Orthodontic office showing comfortable treatment environment",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          }
+        }
+      ],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.webp",
+        "alt": "Dr. Hansen consulting with a patient using digital imaging",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "airway-orthodontics",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": true,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Tooth Contouring",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Tooth contouring, or enamel sculpting, is a quick, precise way to refine tooth shape and correct small irregularities. It’s often completed in a single visit and paired with polishing for a natural, harmonious finish."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/788553581_Cosmetic_Dentistry.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/788553581_Cosmetic_Dentistry.webp",
+        "alt": "Before and after images showing subtle tooth contouring results",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Restorative Treatments"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "tooth-contouring",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Gummy Smile Treatment",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "We offer laser gum contouring and other conservative approaches to reduce excess gum display and balance tooth-to-gum proportions. Procedures are typically quick, performed with local anesthesia, and allow a fast recovery."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/20723079_Dental_Laser_Zahnbehandlung_Zahnfleisch.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/20723079_Dental_Laser_Zahnbehandlung_Zahnfleisch.webp",
+        "alt": "Clinical operatory where laser gum contouring is performed",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Surgery"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "gummy-smile-treatment",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Tongue Tie & Lip Release",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Tongue tie and lip tie release restore function and comfort at any age. Options range from a simple frenotomy for infants to laser therapy or frenuloplasty for older children and adults."
+        }
+      ],
+      "accordion": [
+        {
+          "header": "Signs to watch for",
+          "paragraphs": [
+            {
+              "text": "Difficulty breastfeeding, speech challenges, gaps between front teeth, limited tongue mobility, or trouble with oral hygiene may indicate a tie."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/658353783_The_examination_of_newborn_baby_mouth_frenulum_of.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/658353783_The_examination_of_newborn_baby_mouth_frenulum_of.webp",
+            "alt": "Diagram of tongue tie anatomy",
+            "image_selection_hints": {
+              "context_category": "General"
+            }
+          }
+        },
+        {
+          "header": "Treatment options",
+          "paragraphs": [
+            {
+              "text": "Frenotomy, frenuloplasty, or laser therapy are chosen based on age and severity. Laser therapy reduces bleeding and speeds healing for many patients."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/283930217_dentist_and_patient_discussion_about_planned_teeth.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/283930217_dentist_and_patient_discussion_about_planned_teeth.webp",
+            "alt": "Clinical instruments used for minimally invasive oral procedures",
+            "image_selection_hints": {
+              "context_category": "Surgery"
+            }
+          }
+        },
+        {
+          "header": "Get started",
+          "paragraphs": [
+            {
+              "text": "Book a consultation so we can assess function, discuss options, and recommend the most comfortable, effective approach for you or your child."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.webp",
+            "alt": "Patient consultation in orthodontic office",
+            "image_selection_hints": {
+              "context_category": "Initial Visit"
+            }
+          }
+        }
+      ],
+      "image": {
+        "src": "https://hansen-orthodontics.com/wp-content/uploads/2025/09/gallery-adults-woman-before.webp",
+        "webp": "",
+        "alt": "Patient before a tongue tie release procedure",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Gentle"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "tongue-tie-lip-release",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": true,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Retainers & Mouthguards",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Custom retainers preserve your results after treatment. We offer removable and fixed options along with clear guidance to keep your smile long term. Custom mouthguards protect athletes and patients who grind their teeth."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.webp",
+        "alt": "Patient holding a custom orthodontic retainer",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Retainers"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "retainers-mouthguards",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
       "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
@@ -1104,7 +1804,388 @@
       "content_block": "text_block",
       "text": "",
       "social_links": [],
-      "email": "",
+      "email": "info@hansen-orthodontics.com",
+      "button": {
+        "type": "nuxt",
+        "style": "primary",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
+        "include_icon": false,
+        "icon": "",
+        "color": ""
+      },
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "background_type": "has_background",
+      "background": "bg2",
+      "add_texture": false,
+      "linear_gradient": "",
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/183240584_Doctor_and_patient_shaking_hands.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/183240584_Doctor_and_patient_shaking_hands.webp",
+        "alt": "Family enjoying time together outdoors",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "center",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Contact Hero"
+        }
+      },
+      "reversed": false,
+      "centered": true,
+      "large_title": true,
+      "text_color": "primary"
+    },
+    {
+      "seo": {
+        "page_title": "Treatments | Hansen Orthodontics & Aesthetics",
+        "page_description": "Explore Hansen Orthodontics & Aesthetics' treatments, from early Phase 1 care and airway orthodontics to Damon braces, Spark aligners, retainers, and more.",
+        "page_keywords": "orthodontic treatments, Damon braces, Spark aligners, Phase 1, airway orthodontics, retainers, gummy smile, tongue tie, tooth contouring",
+        "additional_settings": false,
+        "social_meta": {
+          "og_meta": {
+            "title": "Treatments | Hansen Orthodontics & Aesthetics",
+            "description": "Comprehensive orthodontic care including Damon braces, clear aligners, airway-focused treatment, retainers, and cosmetic refinements.",
+            "image": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_50-scaled.webp"
+          }
+        }
+      }
+    }
+  ],
+  "Contact": [
+    {
+      "acf_fc_layout": "hero",
+      "title": "Contact Us",
+      "text": "",
+      "button": {
+        "type": "nuxt",
+        "style": "primary",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
+        "include_icon": false,
+        "icon": "pencil",
+        "color": "primary"
+      },
+      "media_type": "image",
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/148297048_Young_people_working_in_modern_office_discussing_i.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/148297048_Young_people_working_in_modern_office_discussing_i.webp",
+        "alt": "Bright modern Hansen Orthodontics reception and office interior with seating area",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "src": "",
+        "webm": "",
+        "title": ""
+      },
+      "small": true
+    },
+    {
+      "acf_fc_layout": "map",
+      "title": "How to Reach Us",
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "center_title": true,
+      "background": "bg1",
+      "linear_gradient": ""
+    },
+    {
+      "acf_fc_layout": "form",
+      "form": [
+        1025
+      ],
+      "component_options": {
+        "hash": "form",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "stack": false
+    },
+    {
+      "seo": {
+        "page_title": "Contact Hansen Orthodontics & Aesthetics | El Paso Orthodontist",
+        "page_description": "Contact Hansen Orthodontics & Aesthetics in El Paso to schedule appointments, virtual consultations, or ask a question. Call (915) 201-0881 or request an online",
+        "page_keywords": "Hansen Orthodontics contact, El Paso orthodontist, orthodontic appointment, virtual consultation, WaveOrtho",
+        "additional_settings": false,
+        "social_meta": {
+          "og_meta": {
+            "title": "Contact Hansen Orthodontics & Aesthetics | El Paso Orthodontist",
+            "description": "Contact Hansen Orthodontics & Aesthetics in El Paso to schedule appointments, virtual consultations, or ask a question. Call (915) 201-0881 or request an online",
+            "image": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_8-scaled.webp"
+          }
+        }
+      }
+    }
+  ],
+  "FAQ": [
+    {
+      "acf_fc_layout": "hero",
+      "title": "FAQ",
+      "text": "",
+      "button": {
+        "type": "nuxt",
+        "style": "primary",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
+        "include_icon": false,
+        "icon": "pencil",
+        "color": "primary"
+      },
+      "media_type": "image",
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/232435916_Electronic_medical_record_with_patient_data_and_he.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/232435916_Electronic_medical_record_with_patient_data_and_he.webp",
+        "alt": "Patient smiling with orthodontic braces in our Emeryville office",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "FAQ Hero"
+        }
+      },
+      "video": {
+        "src": "",
+        "webm": "",
+        "title": ""
+      },
+      "small": true
+    },
+    {
+      "acf_fc_layout": "accordion",
+      "title": "FAQ",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Find answers to common questions about our services, project timelines, team size, maintenance, and payment options."
+        }
+      ],
+      "accordion": [
+        {
+          "header": "How long does it take to design a home interior?",
+          "paragraphs": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam rhoncus neque eget eros aliquet, sit amet dignissim nisl venenatis. Etiam erat arcu, dapibus at bibendum eget, blandit ut eros. Cras feugiat, sapien eget. Mauris sed ex a velit semper tristique."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1269341883_Wooden_question_mark_leaning_against_wall_in_room.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1269341883_Wooden_question_mark_leaning_against_wall_in_room.webp",
+            "alt": "Happy Family Portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "FAQ Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "Can you work within my budget?",
+          "paragraphs": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam rhoncus neque eget eros aliquet, sit amet dignissim nisl venenatis. Etiam erat arcu, dapibus at bibendum eget, blandit ut eros. Cras feugiat, sapien eget. Mauris sed ex a velit semper tristique."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/347225001_A_portrait_of_kid_girl_holding_card_with_question.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/347225001_A_portrait_of_kid_girl_holding_card_with_question.webp",
+            "alt": "Couple Enjoying Time Together",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "FAQ Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "How many team members are there in INTACT?",
+          "paragraphs": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam rhoncus neque eget eros aliquet, sit amet dignissim nisl venenatis. Etiam erat arcu, dapibus at bibendum eget, blandit ut eros. Cras feugiat, sapien eget. Mauris sed ex a velit semper tristique."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-community.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-community.webp",
+            "alt": "Collaborative Team Spirit Moment",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "FAQ Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "Do you provide maintenance services?",
+          "paragraphs": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam rhoncus neque eget eros aliquet, sit amet dignissim nisl venenatis. Etiam erat arcu, dapibus at bibendum eget, blandit ut eros. Cras feugiat, sapien eget. Mauris sed ex a velit semper tristique."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/508368622_Nobody_in_empty_call_center_workstation_with_compu.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/508368622_Nobody_in_empty_call_center_workstation_with_compu.webp",
+            "alt": "Smiling Man Working at Desk",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "FAQ Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "Can you also provide furniture for your design?",
+          "paragraphs": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam rhoncus neque eget eros aliquet, sit amet dignissim nisl venenatis. Etiam erat arcu, dapibus at bibendum eget, blandit ut eros. Cras feugiat, sapien eget. Mauris sed ex a velit semper tristique."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-home-spotlight.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-home-spotlight.webp",
+            "alt": "Mother and Daughter Smiling Together",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "FAQ Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "What payment methods do you provide for me?",
+          "paragraphs": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam rhoncus neque eget eros aliquet, sit amet dignissim nisl venenatis. Etiam erat arcu, dapibus at bibendum eget, blandit ut eros. Cras feugiat, sapien eget. Mauris sed ex a velit semper tristique."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.webp",
+            "alt": "Happy Family Portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "FAQ Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "full",
+        "component_margins": "full",
+        "hide_component": false
+      }
+    },
+    {
+      "acf_fc_layout": "multi_use_banner",
+      "title": "Ready to get started?",
+      "content_block": "text_block",
+      "text": "",
+      "social_links": [],
+      "email": "info@hansen-orthodontics.com",
       "button": {
         "type": "nuxt",
         "style": "primary",
@@ -1131,1052 +2212,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
-        "alt": "Enjoying time together",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "center",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Contact Hero"
-        }
-      },
-      "reversed": false,
-      "centered": true,
-      "large_title": true,
-      "text_color": "primary"
-    },
-    {
-      "seo": {
-        "page_title": "Get Started | Hansen Orthodontics",
-        "page_description": "Learn what to expect at your first visit, how to complete new patient forms, and how financing and insurance work at Hansen Orthodontics.",
-        "page_keywords": "orthodontics, first visit, patient forms, financing, Hansen Orthodontics",
-        "additional_settings": false,
-        "social_meta": {
-          "og_meta": {
-            "title": "Get Started | Hansen Orthodontics",
-            "description": "Learn what to expect at your first visit, how to complete new patient forms, and how financing and insurance work at Hansen Orthodontics.",
-            "image": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_50-scaled.webp"
-          }
-        }
-      }
-    }
-  ],
-  "Treatments": [
-    {
-      "acf_fc_layout": "hero",
-      "title": "Treatments",
-      "text": "",
-      "button": {
-        "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
-        "href": "",
-        "path": "/contact",
-        "hash": "#form",
-        "external": false,
-        "include_icon": false,
-        "icon": "pencil",
-        "color": "black"
-      },
-      "media_type": "image",
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
-        "alt": "Smiling patients of all ages at Lakeshore Orthodontics",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Treatments Hero"
-        }
-      },
-      "video": {
-        "src": "",
-        "webm": "",
-        "title": ""
-      },
-      "small": false
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Early Interceptive Treatment",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "We recommend an initial orthodontic evaluation around age seven to spot developing issues and determine the right timing for care. Early interceptive treatment aims to guide jaw growth and make later treatment simpler and less invasive."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "When to start",
-          "paragraphs": [
-            {
-              "text": "An exam by about age 7 lets us identify emerging problems while growth can still be guided effectively, often avoiding more complex treatments later."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
-            "alt": "Young patient receiving early orthodontic intervention",
-            "image_selection_hints": {
-              "context_category": "Kid"
-            }
-          }
-        },
-        {
-          "header": "What it corrects",
-          "paragraphs": [
-            {
-              "text": "Common interceptive approaches include palatal expanders to widen narrow arches, space maintainers after early tooth loss, limited braces or aligners on select teeth, habit‑correction appliances, and growth‑guidance devices to improve jaw relationships."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
-            "alt": "Smiling family enjoying time together",
-            "image_selection_hints": {
-              "context_category": "All Ages"
-            }
-          }
-        },
-        {
-          "header": "Benefits",
-          "paragraphs": [
-            {
-              "text": "Early care can correct jaw misalignment before it worsens, guide the eruption of adult teeth, reduce the likelihood of extractions or surgery later, and often result in shorter, less complex treatment during the teenage years."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/491614289_Model_of_jaw_with_braces_on_blue_background.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/491614289_Model_of_jaw_with_braces_on_blue_background.webp",
-            "alt": "Young patient receiving early orthodontic intervention",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.webp",
-        "alt": "Smiling family enjoying time together",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "All Ages"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "early-interceptive-treatment",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Adult Orthodontic Options",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Adult orthodontics delivers comfortable, effective options that fit modern lifestyles. With healthy gums and bone, teeth can move at any age and contemporary systems often shorten treatment while improving aesthetics."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "Why adult treatment works",
-          "paragraphs": [
-            {
-              "text": "Teeth respond to orthodontic forces regardless of age, provided periodontal health is good. Care focuses on predictable movement, comfort, and minimizing disruption to your routine."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513818_Clear_braces_-_invisible_brackets_for_teeth_straig.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513818_Clear_braces_-_invisible_brackets_for_teeth_straig.webp",
-            "alt": "Adult patient receiving orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
-        },
-        {
-          "header": "Discreet options",
-          "paragraphs": [
-            {
-              "text": "We offer clear aligners including Spark and Invisalign, ceramic tooth‑colored brackets, and low‑profile self‑ligating systems for a discreet look without sacrificing effectiveness."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/251234585_Portrait_of_beautiful_Asian_patient_woman_holding.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/251234585_Portrait_of_beautiful_Asian_patient_woman_holding.webp",
-            "alt": "Close-up of clear aligner",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
-        },
-        {
-          "header": "Expected results & process",
-          "paragraphs": [
-            {
-              "text": "Care begins with a comprehensive evaluation and digital imaging, then we create a personalized plan, monitor progress through regular visits, and finish with retainers and long‑term maintenance."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.webp",
-            "alt": "Modern dentist office interior with advanced technology",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
-        "alt": "Adult patient receiving orthodontic treatment",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Adult"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "adult-orthodontic-options",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Traditional & Ceramic Braces",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Braces remain a reliable way to correct a wide range of alignment and bite concerns. Modern materials and techniques make treatment more comfortable and often more efficient than in the past."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "How they work",
-          "paragraphs": [
-            {
-              "text": "Brackets are bonded to teeth and connected with an archwire that applies gentle, continuous force to move teeth into position. Ceramic brackets operate the same way while blending with tooth color for improved aesthetics."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/141451082_Closeup_portrait_of_beautiful_woman_smiling_with_a.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/141451082_Closeup_portrait_of_beautiful_woman_smiling_with_a.webp",
-            "alt": "Dental Checkup with Braces",
-            "image_selection_hints": {
-              "context_category": "Braces"
-            }
-          }
-        },
-        {
-          "header": "Treatment timeline",
-          "paragraphs": [
-            {
-              "text": "Overall treatment time varies with case complexity, commonly between 12 and 36 months; some newer systems can reduce friction and in certain cases shorten the timeline."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.webp",
-            "alt": "Two stylish smiling teens taking selfie with braces",
-            "image_selection_hints": {
-              "context_category": "Teen"
-            }
-          }
-        },
-        {
-          "header": "What to expect",
-          "paragraphs": [
-            {
-              "text": "Expect an initial bonding appointment, periodic adjustment visits, guidance for oral hygiene, possible mild soreness after adjustments, and a final removal followed by retainer care to maintain results."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/232786842_tooth_model_with_metal_wire_dental_braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/232786842_tooth_model_with_metal_wire_dental_braces.webp",
-            "alt": "Smiling Woman with Clear Aligner",
-            "image_selection_hints": {
-              "context_category": "Braces"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.webp",
-        "alt": "Two stylish smiling teens taking selfie with braces",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Braces"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "traditional-ceramic-braces",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": true,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Invisalign Clear Aligners",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Clear aligners use a series of removable, thermoformed trays to move teeth incrementally. They are planned digitally and typically worn 20 to 22 hours per day with regular monitoring."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Many teens and adults with crowding, spacing, or mild to moderate bite concerns are candidates, though complex surgical cases may require braces or combined care. Aligners offer discreet, removable, and often comfortable treatment."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
-        "alt": "Close-up of Invisalign aligners being placed on teeth",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Treatments Hero"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "invisalign-clear-aligners",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Surgical Orthodontics",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Orthognathic surgery is considered for significant skeletal jaw discrepancies that cannot be corrected with braces or aligners alone. Early diagnosis helps determine whether growth modification or surgical care will be necessary."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Treatment is coordinated closely with oral and maxillofacial surgeons and typically includes pre‑surgical orthodontics to align the teeth, the surgical procedure to reposition the jaws, and post‑surgical orthodontics for final detailing and retention."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.webp",
-        "alt": "Orthodontic patient receiving orthognathic surgical consultation",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Surgery"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "surgical-orthodontics",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": true,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Retainers and Post-Care",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Retention is vital to preserve your new smile. We provide removable clear retainers, traditional Hawley retainers, and fixed lingual retainers depending on your needs and the long‑term plan."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "How long to wear them",
-          "paragraphs": [
-            {
-              "text": "Typically we recommend full‑time wear for the first few months, then transition to nighttime wear. Many providers advise some form of lifelong nighttime retention to maintain results."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.webp",
-            "alt": "Beautiful young Asian woman smiling and holding orthodontic retainer",
-            "image_selection_hints": {
-              "context_category": "Retainers"
-            }
-          }
-        },
-        {
-          "header": "Maintenance tips",
-          "paragraphs": [
-            {
-              "text": "Clean retainers daily with lukewarm water and a gentle brush, avoid hot water and harsh chemicals, store them safely, replace if damaged, and attend regular checkups to keep your results stable."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/487454058_A_young_woman_is_putting_on_her_Hawley_retainer.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/487454058_A_young_woman_is_putting_on_her_Hawley_retainer.webp",
-            "alt": "Close-up of retainers",
-            "image_selection_hints": {
-              "context_category": "Retainers"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/491816254_Closeup_of_a_permanent_bonded_retainer_on_upper_te.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/491816254_Closeup_of_a_permanent_bonded_retainer_on_upper_te.webp",
-        "alt": "Beautiful young Asian woman smiling and holding orthodontic retainer",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Retainers"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "retainers-and-post-care",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Advanced Orthodontic Technology",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "We use modern digital tools to improve precision, comfort, and predictability. Digital scanning, CBCT imaging, 3D printing, and integrated digital workflows make treatment planning and appliance fabrication faster and more accurate."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "iTero Digital Scanning",
-          "paragraphs": [
-            {
-              "text": "Fast, radiation‑free intraoral scans capture precise 3‑D images to create accurate records, improve case communication, and speed aligner fabrication."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/389197724_Dentist_scanning_patients_teeth_with_modern_scanni.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/389197724_Dentist_scanning_patients_teeth_with_modern_scanni.webp",
-            "alt": "iTero digital scanner in use during orthodontic consultation",
-            "image_selection_hints": {
-              "context_category": "Technology"
-            }
-          }
-        },
-        {
-          "header": "Digital X‑Rays",
-          "paragraphs": [
-            {
-              "text": "High‑resolution digital radiography provides detailed imagery with substantially less radiation than film, improving diagnostics while enhancing safety and comfort."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/361445351_Cone_Beam_CT_Scanner_machine_CBCT_3D_xray_for_face.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/361445351_Cone_Beam_CT_Scanner_machine_CBCT_3D_xray_for_face.webp",
-            "alt": "Digital X-ray equipment showing detailed orthodontic imaging",
-            "image_selection_hints": {
-              "context_category": "Technology"
-            }
-          }
-        },
-        {
-          "header": "3D Treatment Planning",
-          "paragraphs": [
-            {
-              "text": "Advanced software simulates each stage of tooth movement so we can preview results and refine the plan before treatment begins, reducing remakes and improving fit."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/493853958_Dentist_scanning_woman_teeth_with_dental_intraoral.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/493853958_Dentist_scanning_woman_teeth_with_dental_intraoral.webp",
-            "alt": "3D treatment planning software showing orthodontic simulation",
-            "image_selection_hints": {
-              "context_category": "Technology"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/458018202_An_office_in_a_dental_clinic_computerized_3D_tomog.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/458018202_An_office_in_a_dental_clinic_computerized_3D_tomog.webp",
-        "alt": "Modern dentist office interior with advanced technology",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Technology"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "advanced-orthodontic-technology",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
-      "content_block": "text_block",
-      "text": "",
-      "social_links": [],
-      "email": "",
-      "button": {
-        "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
-        "href": "",
-        "path": "/contact",
-        "hash": "#form",
-        "external": false,
-        "include_icon": false,
-        "icon": "",
-        "color": ""
-      },
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "background_type": "has_background",
-      "background": "bg2",
-      "add_texture": false,
-      "linear_gradient": "",
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/384405861_Online_lifestyle_concept_Cheerful_good_looking_wom.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/384405861_Online_lifestyle_concept_Cheerful_good_looking_wom.webp",
-        "alt": "Enjoying time together",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "center",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Contact Hero"
-        }
-      },
-      "reversed": false,
-      "centered": true,
-      "large_title": true,
-      "text_color": "primary"
-    },
-    {
-      "seo": {
-        "page_title": "Treatments | Hansen Orthodontics",
-        "page_description": "Comprehensive orthodontic treatments at Hansen Orthodontics: early interceptive care, braces, clear aligners, surgical orthodontics, retainers, and advanced 3D‑",
-        "page_keywords": "orthodontics, braces, Invisalign, clear aligners, early orthodontics, retainers, orthognathic surgery, digital scanning",
-        "additional_settings": false,
-        "social_meta": {
-          "og_meta": {
-            "title": "Treatments | Hansen Orthodontics",
-            "description": "Comprehensive orthodontic treatments at Hansen Orthodontics: early interceptive care, braces, clear aligners, surgical orthodontics, retainers, and advanced 3D‑",
-            "image": "https://d25xczrsvvsqdg.cloudfront.net/holt-orthodontics-faq-hero.jpg"
-          }
-        }
-      }
-    }
-  ],
-  "Contact": [
-    {
-      "acf_fc_layout": "hero",
-      "title": "Contact Us",
-      "text": "",
-      "button": {
-        "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
-        "href": "",
-        "path": "/contact",
-        "hash": "#form",
-        "external": false,
-        "include_icon": false,
-        "icon": "envelope",
-        "color": "primary"
-      },
-      "media_type": "image",
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/652764051_Medical_staff_and_nurse_Receptionist_talking_to_co.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/652764051_Medical_staff_and_nurse_Receptionist_talking_to_co.webp",
-        "alt": "Hansen Orthodontics reception area with appointment desk and phone",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Contact Hero"
-        }
-      },
-      "video": {
-        "src": "",
-        "webm": "",
-        "title": ""
-      },
-      "small": true
-    },
-    {
-      "acf_fc_layout": "map",
-      "title": "Our Location",
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "center_title": true,
-      "background": "bg1",
-      "linear_gradient": ""
-    },
-    {
-      "acf_fc_layout": "form",
-      "form": [
-        1025
-      ],
-      "component_options": {
-        "hash": "form",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "stack": false
-    },
-    {
-      "seo": {
-        "page_title": "Contact Hansen Orthodontics & Aesthetics Westside | El Paso Orthodontist",
-        "page_description": "Contact Hansen Orthodontics & Aesthetics Westside in El Paso. Call (915) 201-0881 or request an appointment online for braces, clear aligners, or a consultation",
-        "page_keywords": "Hansen Orthodontics contact, El Paso orthodontist, orthodontic appointment, clear aligners, braces",
-        "additional_settings": false,
-        "social_meta": {
-          "og_meta": {
-            "title": "Contact Hansen Orthodontics & Aesthetics Westside | El Paso Orthodontist",
-            "description": "Contact Hansen Orthodontics & Aesthetics Westside in El Paso. Call (915) 201-0881 or request an appointment online for braces, clear aligners, or a consultation",
-            "image": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/office_pictures_50-scaled.webp"
-          }
-        }
-      }
-    }
-  ],
-  "FAQ": [
-    {
-      "acf_fc_layout": "hero",
-      "title": "FAQ",
-      "text": "",
-      "button": {
-        "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
-        "href": "",
-        "path": "/contact",
-        "hash": "#form",
-        "external": false,
-        "include_icon": false,
-        "icon": "pencil",
-        "color": "primary"
-      },
-      "media_type": "image",
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.webp",
-        "alt": "Patient smiling with orthodontic braces in our Emeryville office",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": null
-      },
-      "video": {
-        "src": "",
-        "webm": "",
-        "title": ""
-      },
-      "small": true
-    },
-    {
-      "acf_fc_layout": "accordion",
-      "title": "FAQ",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Find answers to common patient questions about treatment options, appointment scheduling, and payment and insurance at Hansen Orthodontics."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "What treatment options do you offer?",
-          "paragraphs": [
-            {
-              "text": "We offer braces (including Damon self‑ligating systems), Spark clear aligners, interceptive / Phase‑1 treatment for children, appliance‑based options (expanders, retainers, mouthguards), and non‑surgical aesthetic procedures such as laser gum contouring and tongue‑tie / lip‑tie release. See explanations of Damon braces, clear aligners, Phase‑1 treatment, gummy‑smile treatment, and tongue‑tie release for details."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
-            "alt": "Happy Family Portrait",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How do I decide between braces and clear aligners?",
-          "paragraphs": [
-            {
-              "text": "The right option depends on your case complexity, preferred aesthetics, and lifestyle. Spark clear aligners are a discreet removable option for many mild–moderate cases; Damon braces are well suited to complex corrections and can reduce appointment frequency. For help choosing, patients are evaluated with digital imaging and a personalized plan is proposed at consultation."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.webp",
-            "alt": "Couple Enjoying Time Together",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What financial and insurance support do you offer?",
-          "paragraphs": [
-            {
-              "text": "The practice offers flexible monthly payment plans (including low/no interest), extended terms, third‑party financing partners, and support working with insurance providers to maximize benefits and reduce out‑of‑pocket costs. If you have insurance, bring your insurance information to the first visit so staff can review your benefits."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
-            "alt": "Collaborative Team Spirit Moment",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How do I schedule an appointment, and is a referral required?",
-          "paragraphs": [
-            {
-              "text": "No referral is required. Patients can contact the office directly or use the appointment request/contact form on the Contact page to request consultations or repairs."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/348192383_Cost_of_healthcare_Piggy_bank_money_box_with_a_med.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/348192383_Cost_of_healthcare_Piggy_bank_money_box_with_a_med.webp",
-            "alt": "Smiling Man Working at Desk",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What should I know about discomfort, emergencies, and daily care?",
-          "paragraphs": [
-            {
-              "text": "Mild soreness after adjustments is common. For issues such as poking wires, loose brackets, or swelling, use recommended home steps like orthodontic wax, over‑the‑counter pain relievers, and warm salt rinses, and contact the office to schedule a prompt repair. For daily care: brush after every meal, floss daily with threaders or picks, clean aligners with mild soap and lukewarm water, remove aligners for eating, avoid sticky or hard foods, store aligners in their case, and wear retainers as instructed after treatment."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/186439743_dental_care_savings_concept_beautiful_smiling_woma.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/186439743_dental_care_savings_concept_beautiful_smiling_woma.webp",
-            "alt": "Mother and Daughter Smiling Together",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        }
-      ],
-      "component_options": {
-        "hash": "",
-        "component_padding": "full",
-        "component_margins": "full",
-        "hide_component": false
-      }
-    },
-    {
-      "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
-      "content_block": "text_block",
-      "text": "",
-      "social_links": [],
-      "email": "",
-      "button": {
-        "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
-        "href": "",
-        "path": "/contact",
-        "hash": "#form",
-        "external": false,
-        "include_icon": false,
-        "icon": "",
-        "color": ""
-      },
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "background_type": "has_background",
-      "background": "bg2",
-      "add_texture": false,
-      "linear_gradient": "",
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/614704568_Multiracial_group_of_young_friends_enjoying_and_sm.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/614704568_Multiracial_group_of_young_friends_enjoying_and_sm.webp",
-        "alt": "Enjoying time together",
+        "alt": "Family enjoying time together outdoors",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2196,14 +2232,14 @@
     {
       "seo": {
         "page_title": "FAQ | Hansen Orthodontics",
-        "page_description": "Answers to common questions about treatments, scheduling, payment options, and at‑home care at Hansen Orthodontics.",
-        "page_keywords": "Hansen Orthodontics, orthodontics, braces, Spark, Damon, FAQ, patient resources",
+        "page_description": "Find answers to frequently asked questions about services, scheduling, and payments at Hansen Orthodontics.",
+        "page_keywords": "Hansen Orthodontics, FAQ, appointments, payments, contact",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "FAQ | Hansen Orthodontics",
-            "description": "Answers to common questions about treatments, scheduling, payment options, and at‑home care at Hansen Orthodontics.",
-            "image": "https://d25xczrsvvsqdg.cloudfront.net/andersonbracesmn-contact-hero.jpg"
+            "description": "Find answers to frequently asked questions about services, scheduling, and payments at Hansen Orthodontics.",
+            "image": "https://hansen-orthodontics.com/wp-content/uploads/2025/08/dr_Hansen.jpg"
           }
         }
       }
